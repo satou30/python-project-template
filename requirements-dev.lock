@@ -7,7 +7,4 @@
 #   all-features: false
 
 -e file:.
-mypy==1.7.0
-mypy-extensions==1.0.0
 ruff==0.1.6
-typing-extensions==4.8.0

@@ -14,16 +14,11 @@ build-backend = "hatchling.build"
 [tool.rye]
 managed = true
 dev-dependencies = [
-    "mypy",
     "ruff>=0.1.6"
 ]
 
 [tool.hatch.metadata]
 allow-direct-references = true
-
-[tool.mypy]
-strict = true
-ignore-missing-imports = true
 
 [tool.ruff]
 select = [
