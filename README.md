@@ -15,9 +15,9 @@ This template use [Ruff](https://github.com/astral-sh/ruff) as a linter and code
 
 ## How to use
 
-Clone this repository. Or, create a new repository from a template and then clone it.
+Clone this repository directly, or create a new repository from a template and then clone it.
 
-After cloning, `rye sync` and start vscode.
+After cloning, `rye sync` and run vscode.
 
 ```
 git clone <new_repository_name>
